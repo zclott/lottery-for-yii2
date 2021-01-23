@@ -1,4 +1,4 @@
-# yii2-for-laravel
+# lottery-for-yii2
 
 > ##### yii2版composer抽奖程序插件，包含服务端和前端html(vue和js版大转盘)
 
