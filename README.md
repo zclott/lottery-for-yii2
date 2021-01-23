@@ -26,6 +26,14 @@
 $ composer require lotteryyii/lottery
 ```
 
+#### 添加 alias,在config/web.php中alias添加
+
+```php
+    'aliases' => [
+        '@lotteryyii/lottery'   => '@vendor/lotteryyii/lottery/src',
+    ],
+```
+
 #### 视图
 
 ![image](http://www.qiangbus.com/res/images/draw.png)
