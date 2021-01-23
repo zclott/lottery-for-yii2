@@ -26,7 +26,7 @@
 $ composer require lotteryyii/lottery
 ```
 
-#### 添加 alias,在config/web.php中alias添加
+#### 添加 aliases,在config/web.php中aliases添加
 
 ```php
     'aliases' => [
