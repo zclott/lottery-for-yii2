@@ -9,8 +9,7 @@
             "email": "943826443@qq.com"
         }
     ],
-	"require":{
-			"yiisoft/yii2":"*",
+	"require":{
 			"yiisoft/yii2-redis":"~2.0.0"
 		},
     "autoload": {
