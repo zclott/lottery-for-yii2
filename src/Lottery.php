@@ -1,5 +1,5 @@
 <?php
-namespace lotteryyii\Lottery;
+namespace lotteryyii\lottery;
 use lotteryyii\lottery\Models\LotteryPrize;
 use lotteryyii\lottery\Models\LotteryActivity;
 use lotteryyii\lottery\Models\LotteryRecord;
